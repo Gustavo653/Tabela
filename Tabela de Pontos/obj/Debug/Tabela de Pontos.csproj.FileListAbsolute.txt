@@ -1,0 +1,14 @@
+C:\Users\Gustavo\source\repos\Tabela de Pontos\Tabela de Pontos\bin\Debug\Tabela de Pontos.exe.config
+C:\Users\Gustavo\source\repos\Tabela de Pontos\Tabela de Pontos\bin\Debug\Tabela de Pontos.exe
+C:\Users\Gustavo\source\repos\Tabela de Pontos\Tabela de Pontos\bin\Debug\Tabela de Pontos.pdb
+C:\Users\Gustavo\source\repos\Tabela de Pontos\Tabela de Pontos\obj\Debug\Tabela de Pontos.csprojAssemblyReference.cache
+C:\Users\Gustavo\source\repos\Tabela de Pontos\Tabela de Pontos\obj\Debug\Tabela_de_Pontos.Properties.Resources.resources
+C:\Users\Gustavo\source\repos\Tabela de Pontos\Tabela de Pontos\obj\Debug\Tabela de Pontos.csproj.GenerateResource.cache
+C:\Users\Gustavo\source\repos\Tabela de Pontos\Tabela de Pontos\obj\Debug\Tabela de Pontos.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\Tabela de Pontos\Tabela de Pontos\obj\Debug\Tabela de Pontos.exe
+C:\Users\Gustavo\source\repos\Tabela de Pontos\Tabela de Pontos\obj\Debug\Tabela de Pontos.pdb
+C:\Users\Gustavo\source\repos\Tabela de Pontos\Tabela de Pontos\obj\Debug\Tabela_de_Pontos.FrmPonto.resources
+C:\Users\Gustavo\source\repos\Tabela de Pontos\Tabela de Pontos\bin\Debug\Tabela de Pontos.exe.manifest
+C:\Users\Gustavo\source\repos\Tabela de Pontos\Tabela de Pontos\bin\Debug\Tabela de Pontos.application
+C:\Users\Gustavo\source\repos\Tabela de Pontos\Tabela de Pontos\obj\Debug\Tabela de Pontos.exe.manifest
+C:\Users\Gustavo\source\repos\Tabela de Pontos\Tabela de Pontos\obj\Debug\Tabela de Pontos.application
